@@ -1,0 +1,42 @@
+.counter-widget p {
+    font-size: 16px;
+    color: #7a838e;
+    padding-left: 10px;
+    margin: 0;
+}
+
+.counter-widget p span {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 30px;
+    display: block;
+    color: #2c3e50;
+    padding-top: 10px;
+}
+
+.counter-widget ul {
+    list-style: none;
+}
+
+li.post-count {
+    border-left: 4px solid #4CC3D9;
+    margin-bottom: 30px;
+    line-height: .9;
+}
+
+li.category-count {
+    border-left: 4px solid #7BC8A4;
+    margin-bottom: 30px;
+    line-height: .9;
+}
+
+li.comment-count {
+    border-left: 4px solid #FFC65D;
+    margin-bottom: 30px;
+    line-height: .9;
+}
+
+li.user-count {
+    border-left: 4px solid #F16745;
+    line-height: .9;
+}
